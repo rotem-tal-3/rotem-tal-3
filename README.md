@@ -1,6 +1,6 @@
 # Hi there, I'm Rotem 👋
 
-M.Sc. graduate in Computer Science & Computational Biology with experience as a Software Developer and Mobile App Engineer. I enjoy the craft of coding, mathematics, and statistics, and I'm a quick self-learner with strong foundations in OOP, reactive programming, TDD, and machine learning concepts.  
+M.Sc. graduate in Computer Science & Computational Biology with experience as a Software Developer and Mobile App Engineer. I enjoy the craft of coding, mathematics, and statistics, and I'm a quick self-learner with strong foundations in OOP, reactive programming and machine learning concepts.  
 
 ## Projects
 
@@ -20,6 +20,7 @@ A project still in development, an android application aimed at providing an int
 
 **Link:** [https://github.com/rotem-tal-3/vgg](#)
 
-## 📫 Contact
+## Social media
 
 - Linkedin: [https://www.linkedin.com/in/rotem-tal-a62543187/](#)
+  
