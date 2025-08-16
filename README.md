@@ -8,19 +8,23 @@ M.Sc. graduate in Computer Science & Computational Biology with experience as a 
 Developed a fully customizable Android app in Kotlin implementing the Pomodoro technique. 
 Features: adjustable focus/break times, alarm sounds, background operation, and sleep-mode alarms.  
 
-**Link:** [https://github.com/rotem-tal-3/Pomodoro-android-app](#)
+[**Link**](https://github.com/rotem-tal-3/Pomodoro-android-app)
 
 ### Cookie Cruncher
 A Chrome extension to auto decline optional cookies and remove the cookie consent banner.
 
-**Link:** [https://github.com/rotem-tal-3/Cookie-cruncher](#)
+[**Link**](https://github.com/rotem-tal-3/Cookie-cruncher)
 
 ### Vj Me (Temporary name)
-A project still in development, an android application aimed at providing an intuitive interface for creating dynamic graphics that respond to music in real-time
+A project still in development, an android application aimed at providing an intuitive interface for creating dynamic graphics that respond to music in real-time (VJ - Video DJ)
 
-**Link:** [https://github.com/rotem-tal-3/vgg](#)
+[**Link**](https://github.com/rotem-tal-3/vgg)
 
 ## Social media
 
-- Linkedin: [https://www.linkedin.com/in/rotem-tal-a62543187/](#)
+- [Linkedin](https://www.linkedin.com/in/rotem-tal-a62543187/)
+
+  ### Mini Projects
   
+  - [Icon Maker](https://github.com/rotem-tal-3/Icon-Maker) - Command line tool to generate Chrome extension icons from a given source image.
+  - [Diffusion Model](https://github.com/rotem-tal-3/Diffusion-Model) - Implementation of a generative diffusion model using Pytorch.
