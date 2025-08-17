@@ -20,10 +20,12 @@ A project still in development, an android application aimed at providing an int
 
 [**Link**](https://github.com/rotem-tal-3/vgg)
 
-## Social media
-
-- [Linkedin](https://www.linkedin.com/in/rotem-tal-a62543187/)
 
 ### Mini Projects
 - [Icon Maker](https://github.com/rotem-tal-3/Icon-Maker) - Command line tool to generate Chrome extension icons from a given source image.
 - [Diffusion Model](https://github.com/rotem-tal-3/Diffusion-Model) - Implementation of a generative diffusion model using Pytorch.
+
+
+## Social media
+
+- [Linkedin](https://www.linkedin.com/in/rotem-tal-a62543187/)
