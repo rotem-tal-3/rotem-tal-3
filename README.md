@@ -5,7 +5,7 @@ M.Sc. graduate in Computer Science & Computational Biology with experience as a 
 ## Projects
 
 ### Pomodoro Focus Android App  
-Developed a fully customizable Android app in Kotlin implementing the Pomodoro technique. 
+A fully customizable Android app in Kotlin implementing the Pomodoro technique. 
 Features: adjustable focus/break times, alarm sounds, background operation, and sleep-mode alarms.  
 
 [**Link**](https://github.com/rotem-tal-3/Pomodoro-android-app)
