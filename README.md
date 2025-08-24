@@ -24,7 +24,7 @@ A project still in development, an android application aimed at providing an int
 ### Mini Projects
 - [Icon Maker](https://github.com/rotem-tal-3/Icon-Maker) - Command line tool to generate Chrome extension icons from a given source image.
 - [Diffusion Model](https://github.com/rotem-tal-3/Diffusion-Model) - Implementation of a generative diffusion model using Pytorch.
-
+- [Reaction–Diffusion Playground](https://github.com/rotem-tal-3/reaction-diffusion-playground) React app that implements the Gray-Scott model, allowing the user to play with the parameters and see the results in real time.
 
 ## Social media
 
