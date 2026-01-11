@@ -32,6 +32,7 @@ Command line tool to generate Chrome extension icons from a given source image.
 
 ### Diffusion Model
 Implementation of a generative diffusion model using Pytorch.
+
 [**Link**](https://github.com/rotem-tal-3/Diffusion-Model)
 
 ### Reaction–Diffusion Playground
