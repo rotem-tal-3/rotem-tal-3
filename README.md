@@ -32,12 +32,13 @@ Command line tool to generate Chrome extension icons from a given source image.
 
 ### Diffusion Model
 Implementation of a generative diffusion model using Pytorch.
-- [**Link**](https://github.com/rotem-tal-3/Diffusion-Model)
+[**Link**](https://github.com/rotem-tal-3/Diffusion-Model)
 
-  ### Reaction–Diffusion Playground
-  React app that implements the Gray-Scott model, allowing the user to play with the parameters and see the results in real time.
+### Reaction–Diffusion Playground
+React app that implements the Gray-Scott model, allowing the user to play with the parameters and see the results in real time.
 
 [**App Link**](https://reaction-diffusion-playground.vercel.app/)
+
 [**Repo Link**](https://github.com/rotem-tal-3/reaction-diffusion-playground) 
 
 ## Social media
