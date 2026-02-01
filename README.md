@@ -13,7 +13,7 @@ AI agent representing a pharmacy chain chatbot, currently implemented for OpenAI
 
 1D CNN for exercise recognition using Mediapipe Pose landmarker. Including a mahalanobis detector for OOD detection. 
 
-[**link**](https://github.com/rotem-tal-3/PoseNet/tree/master)
+[**Link**](https://github.com/rotem-tal-3/PoseNet/tree/master)
 
 ### Pomodoro Focus Android App  
 A fully customizable Android app in Kotlin implementing the Pomodoro technique. 
