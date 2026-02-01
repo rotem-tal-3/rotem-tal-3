@@ -4,6 +4,17 @@ M.Sc. graduate in Computer Science & Computational Biology with experience as a 
 
 ## Projects
 
+### Pharmacy Chatbot
+AI agent representing a pharmacy chain chatbot, currently implemented for OpenAI API
+
+[**Link**](https://github.com/rotem-tal-3/Wonderful-AI-agent)
+
+### PoseNet
+
+1D CNN for exercise recognition using Mediapipe Pose landmarker. Including a mahalanobis detector for OOD detection. 
+
+[**link**](https://github.com/rotem-tal-3/PoseNet/tree/master)
+
 ### Pomodoro Focus Android App  
 A fully customizable Android app in Kotlin implementing the Pomodoro technique. 
 Features: adjustable focus/break times, alarm sounds, background operation, and sleep-mode alarms.  
@@ -14,11 +25,6 @@ Features: adjustable focus/break times, alarm sounds, background operation, and 
 A Chrome extension to auto decline optional cookies and remove the cookie consent banner.
 
 [**Link**](https://github.com/rotem-tal-3/Cookie-cruncher)
-
-### Pharmacy Chatbot
-AI agent representing a pharmacy chain chatbot, currently implemented for OpenAI API
-
-[**Link**](https://github.com/rotem-tal-3/Wonderful-AI-agent)
 
 ### Vj Me (Temporary name)
 A project still in development, an android application aimed at providing an intuitive interface for creating dynamic graphics that respond to music in real-time (VJ - Video DJ)
